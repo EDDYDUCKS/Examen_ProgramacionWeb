@@ -46,3 +46,26 @@ body {
     color: #333;
     margin-bottom: 5px;
 }
+
+.nombre-docente {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+
+.contenedor-badges {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    margin-bottom: 25px;
+}
+
+.badge {
+    background: #e9ecef;
+    padding: 5px 12px;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    border: 1px solid #ccc;
+}
