@@ -17,3 +17,16 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.tarjeta-asignatura {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    width: 100%;
+    transition: box-shadow 0.3s ease;
+    border: 1px solid #ddd;
+}
+
+.tarjeta-asignatura:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); [cite: 13, 33]
+}
