@@ -69,3 +69,19 @@ body {
     font-weight: bold;
     border: 1px solid #ccc;
 }
+
+.btn-aula {
+    width: 100%;
+    padding: 12px;
+    background-color: transparent;
+    border: 2px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.btn-aula:hover {
+    background-color: #333;
+    color: white;
+}
