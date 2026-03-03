@@ -32,8 +32,12 @@ body {
 }
 
 .portada-clase {
-    height: 120px;
-    background: linear-gradient(135deg, #1e3c, #2a59); [cite: 14]
+    height: 150px;
+    background-image: url('https://www.flagcolorcodes.com/data/flag-of-getafe-cf.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #eee;
 }
 
 .contenido-tarjeta {
@@ -74,7 +78,7 @@ body {
     width: 100%;
     padding: 12px;
     background-color: transparent;
-    border: 2px solid #074502;
+    border: 2px solid #020638;
     border-radius: 8px;
     cursor: pointer;
     font-weight: bold;
@@ -82,7 +86,7 @@ body {
 }
 
 .btn-aula:hover {
-    background-color: #134b03;
+    background-color: #1a0251;
     color: white;
 }
 
