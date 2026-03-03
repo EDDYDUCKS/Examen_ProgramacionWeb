@@ -31,10 +31,9 @@ body {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); [cite: 13, 33]
 }
 
-/* Requerimiento 2: Encabezado Visual */
 .portada-clase {
     height: 120px;
-    background: linear-gradient(135deg, #1e3c72, #2a5298); [cite: 14]
+    background: linear-gradient(135deg, #1e3c, #2a59); [cite: 14]
 }
 
 .contenido-tarjeta {
@@ -42,7 +41,6 @@ body {
     text-align: center;
 }
 
-/* Requerimiento 3: Tipografía */
 .titulo-clase {
     font-size: 1.5rem;
     color: #333;
